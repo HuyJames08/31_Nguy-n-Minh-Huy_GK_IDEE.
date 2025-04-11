@@ -1,0 +1,967 @@
+[
+    {
+        "id": "abys",
+        "name": "Abyssinian",
+        "origin": "Egypt",
+        "temperament": [
+            "Active",
+            "Energetic",
+            "Independent",
+            "Intelligent",
+            "Gentle"
+        ],
+        "life_span": "14 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "aege",
+        "name": "Aegean",
+        "origin": "Greece",
+        "temperament": [
+            "Affectionate",
+            "Social",
+            "Intelligent",
+            "Playful",
+            "Active"
+        ],
+        "life_span": "9 - 12",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "abob",
+        "name": "American Bobtail",
+        "origin": "United States",
+        "temperament": [
+            "Intelligent",
+            "Interactive",
+            "Lively",
+            "Playful",
+            "Sensitive"
+        ],
+        "life_span": "11 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "acur",
+        "name": "American Curl",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Curious",
+            "Intelligent",
+            "Interactive",
+            "Lively",
+            "Playful",
+            "Social"
+        ],
+        "life_span": "12 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "asho",
+        "name": "American Shorthair",
+        "origin": "United States",
+        "temperament": [
+            "Active",
+            "Curious",
+            "Easy Going",
+            "Playful",
+            "Calm"
+        ],
+        "life_span": "15 - 17",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "awir",
+        "name": "American Wirehair",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Curious",
+            "Gentle",
+            "Intelligent",
+            "Interactive",
+            "Lively",
+            "Loyal",
+            "Playful",
+            "Sensible",
+            "Social"
+        ],
+        "life_span": "14 - 18",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "amau",
+        "name": "Arabian Mau",
+        "origin": "United Arab Emirates",
+        "temperament": [
+            "Affectionate",
+            "Agile",
+            "Curious",
+            "Independent",
+            "Playful",
+            "Loyal"
+        ],
+        "life_span": "12 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "amis",
+        "name": "Australian Mist",
+        "origin": "Australia",
+        "temperament": [
+            "Lively",
+            "Social",
+            "Fun-loving",
+            "Relaxed",
+            "Affectionate"
+        ],
+        "life_span": "12 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "bali",
+        "name": "Balinese",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Intelligent",
+            "Playful"
+        ],
+        "life_span": "10 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "bamb",
+        "name": "Bambino",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Lively",
+            "Friendly",
+            "Intelligent"
+        ],
+        "life_span": "12 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "beng",
+        "name": "Bengal",
+        "origin": "United States",
+        "temperament": [
+            "Alert",
+            "Agile",
+            "Energetic",
+            "Demanding",
+            "Intelligent"
+        ],
+        "life_span": "12 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "birm",
+        "name": "Birman",
+        "origin": "France",
+        "temperament": [
+            "Affectionate",
+            "Active",
+            "Gentle",
+            "Social"
+        ],
+        "life_span": "14 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "bomb",
+        "name": "Bombay",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Dependent",
+            "Gentle",
+            "Intelligent",
+            "Playful"
+        ],
+        "life_span": "12 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "bslo",
+        "name": "British Longhair",
+        "origin": "United Kingdom",
+        "temperament": [
+            "Affectionate",
+            "Easy Going",
+            "Independent",
+            "Intelligent",
+            "Loyal",
+            "Social"
+        ],
+        "life_span": "12 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "bsho",
+        "name": "British Shorthair",
+        "origin": "United Kingdom",
+        "temperament": [
+            "Affectionate",
+            "Easy Going",
+            "Gentle",
+            "Loyal",
+            "Patient",
+            "calm"
+        ],
+        "life_span": "12 - 17",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "bure",
+        "name": "Burmese",
+        "origin": "Burma",
+        "temperament": [
+            "Curious",
+            "Intelligent",
+            "Gentle",
+            "Social",
+            "Interactive",
+            "Playful",
+            "Lively"
+        ],
+        "life_span": "15 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "buri",
+        "name": "Burmilla",
+        "origin": "United Kingdom",
+        "temperament": [
+            "Easy Going",
+            "Friendly",
+            "Intelligent",
+            "Lively",
+            "Playful",
+            "Social"
+        ],
+        "life_span": "10 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "cspa",
+        "name": "California Spangled",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Curious",
+            "Intelligent",
+            "Loyal",
+            "Social"
+        ],
+        "life_span": "10 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "ctif",
+        "name": "Chantilly-Tiffany",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Demanding",
+            "Interactive",
+            "Loyal"
+        ],
+        "life_span": "14 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "char",
+        "name": "Chartreux",
+        "origin": "France",
+        "temperament": [
+            "Affectionate",
+            "Loyal",
+            "Intelligent",
+            "Social",
+            "Lively",
+            "Playful"
+        ],
+        "life_span": "12 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "chau",
+        "name": "Chausie",
+        "origin": "Egypt",
+        "temperament": [
+            "Affectionate",
+            "Intelligent",
+            "Playful",
+            "Social"
+        ],
+        "life_span": "12 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "chee",
+        "name": "Cheetoh",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Gentle",
+            "Intelligent",
+            "Social"
+        ],
+        "life_span": "12 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "csho",
+        "name": "Colorpoint Shorthair",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Intelligent",
+            "Playful",
+            "Social"
+        ],
+        "life_span": "12 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "crex",
+        "name": "Cornish Rex",
+        "origin": "United Kingdom",
+        "temperament": [
+            "Affectionate",
+            "Intelligent",
+            "Active",
+            "Curious",
+            "Playful"
+        ],
+        "life_span": "11 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "cymr",
+        "name": "Cymric",
+        "origin": "Canada",
+        "temperament": [
+            "Gentle",
+            "Loyal",
+            "Intelligent",
+            "Playful"
+        ],
+        "life_span": "8 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "cypr",
+        "name": "Cyprus",
+        "origin": "Cyprus",
+        "temperament": [
+            "Affectionate",
+            "Social"
+        ],
+        "life_span": "12 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "drex",
+        "name": "Devon Rex",
+        "origin": "United Kingdom",
+        "temperament": [
+            "Highly interactive",
+            "Mischievous",
+            "Loyal",
+            "Social",
+            "Playful"
+        ],
+        "life_span": "10 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "dons",
+        "name": "Donskoy",
+        "origin": "Russia",
+        "temperament": [
+            "Playful",
+            "affectionate",
+            "loyal",
+            "social"
+        ],
+        "life_span": "12 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "lihu",
+        "name": "Dragon Li",
+        "origin": "China",
+        "temperament": [
+            "Intelligent",
+            "Friendly",
+            "Gentle",
+            "Loving",
+            "Loyal"
+        ],
+        "life_span": "12 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "emau",
+        "name": "Egyptian Mau",
+        "origin": "Egypt",
+        "temperament": [
+            "Agile",
+            "Dependent",
+            "Gentle",
+            "Intelligent",
+            "Lively",
+            "Loyal",
+            "Playful"
+        ],
+        "life_span": "18 - 20",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "ebur",
+        "name": "European Burmese",
+        "origin": "Burma",
+        "temperament": [
+            "Sweet",
+            "Affectionate",
+            "Loyal"
+        ],
+        "life_span": "10 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "esho",
+        "name": "Exotic Shorthair",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Sweet",
+            "Loyal",
+            "Quiet",
+            "Peaceful"
+        ],
+        "life_span": "12 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "hbro",
+        "name": "Havana Brown",
+        "origin": "United Kingdom",
+        "temperament": [
+            "Affectionate",
+            "Curious",
+            "Demanding",
+            "Friendly",
+            "Intelligent",
+            "Playful"
+        ],
+        "life_span": "10 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "hima",
+        "name": "Himalayan",
+        "origin": "United States",
+        "temperament": [
+            "Dependent",
+            "Gentle",
+            "Intelligent",
+            "Quiet",
+            "Social"
+        ],
+        "life_span": "9 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "jbob",
+        "name": "Japanese Bobtail",
+        "origin": "Japan",
+        "temperament": [
+            "Active",
+            "Agile",
+            "Clever",
+            "Easy Going",
+            "Intelligent",
+            "Lively",
+            "Loyal",
+            "Playful",
+            "Social"
+        ],
+        "life_span": "14 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "java",
+        "name": "Javanese",
+        "origin": "United States",
+        "temperament": [
+            "Active",
+            "Devoted",
+            "Intelligent",
+            "Playful"
+        ],
+        "life_span": "10 - 12",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "khao",
+        "name": "Khao Manee",
+        "origin": "Thailand",
+        "temperament": [
+            "Calm",
+            "Relaxed",
+            "Talkative",
+            "Playful",
+            "Warm"
+        ],
+        "life_span": "10 - 12",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "kora",
+        "name": "Korat",
+        "origin": "Thailand",
+        "temperament": [
+            "Active",
+            "Loyal",
+            "highly intelligent",
+            "Expressive",
+            "Trainable"
+        ],
+        "life_span": "10 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "kuri",
+        "name": "Kurilian",
+        "origin": "Russia",
+        "temperament": [
+            "Independent",
+            "highly intelligent",
+            "clever",
+            "inquisitive",
+            "sociable",
+            "playful",
+            "trainable"
+        ],
+        "life_span": "15 - 20",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "lape",
+        "name": "LaPerm",
+        "origin": "Thailand",
+        "temperament": [
+            "Affectionate",
+            "Friendly",
+            "Gentle",
+            "Intelligent",
+            "Playful",
+            "Quiet"
+        ],
+        "life_span": "10 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "mcoo",
+        "name": "Maine Coon",
+        "origin": "United States",
+        "temperament": [
+            "Adaptable",
+            "Intelligent",
+            "Loving",
+            "Gentle",
+            "Independent"
+        ],
+        "life_span": "12 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "mala",
+        "name": "Malayan",
+        "origin": "United Kingdom",
+        "temperament": [
+            "Affectionate",
+            "Interactive",
+            "Playful",
+            "Social"
+        ],
+        "life_span": "12 - 18",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "manx",
+        "name": "Manx",
+        "origin": "Isle of Man",
+        "temperament": [
+            "Easy Going",
+            "Intelligent",
+            "Loyal",
+            "Playful",
+            "Social"
+        ],
+        "life_span": "12 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "munc",
+        "name": "Munchkin",
+        "origin": "United States",
+        "temperament": [
+            "Agile",
+            "Easy Going",
+            "Intelligent",
+            "Playful"
+        ],
+        "life_span": "10 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "nebe",
+        "name": "Nebelung",
+        "origin": "United States",
+        "temperament": [
+            "Gentle",
+            "Quiet",
+            "Shy",
+            "Playful"
+        ],
+        "life_span": "11 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "norw",
+        "name": "Norwegian Forest Cat",
+        "origin": "Norway",
+        "temperament": [
+            "Sweet",
+            "Active",
+            "Intelligent",
+            "Social",
+            "Playful",
+            "Lively",
+            "Curious"
+        ],
+        "life_span": "12 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "ocic",
+        "name": "Ocicat",
+        "origin": "United States",
+        "temperament": [
+            "Active",
+            "Agile",
+            "Curious",
+            "Demanding",
+            "Friendly",
+            "Gentle",
+            "Lively",
+            "Playful",
+            "Social"
+        ],
+        "life_span": "12 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "orie",
+        "name": "Oriental",
+        "origin": "United States",
+        "temperament": [
+            "Energetic",
+            "Affectionate",
+            "Intelligent",
+            "Social",
+            "Playful",
+            "Curious"
+        ],
+        "life_span": "12 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "pers",
+        "name": "Persian",
+        "origin": "Iran (Persia)",
+        "temperament": [
+            "Affectionate",
+            "loyal",
+            "Sedate",
+            "Quiet"
+        ],
+        "life_span": "14 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "pixi",
+        "name": "Pixie-bob",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Social",
+            "Intelligent",
+            "Loyal"
+        ],
+        "life_span": "13 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "raga",
+        "name": "Ragamuffin",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Friendly",
+            "Gentle",
+            "Calm"
+        ],
+        "life_span": "12 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "ragd",
+        "name": "Ragdoll",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Friendly",
+            "Gentle",
+            "Quiet",
+            "Easygoing"
+        ],
+        "life_span": "12 - 17",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "rblu",
+        "name": "Russian Blue",
+        "origin": "Russia",
+        "temperament": [
+            "Active",
+            "Dependent",
+            "Easy Going",
+            "Gentle",
+            "Intelligent",
+            "Loyal",
+            "Playful",
+            "Quiet"
+        ],
+        "life_span": "10 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "sava",
+        "name": "Savannah",
+        "origin": "United States",
+        "temperament": [
+            "Curious",
+            "Social",
+            "Intelligent",
+            "Loyal",
+            "Outgoing",
+            "Adventurous",
+            "Affectionate"
+        ],
+        "life_span": "17 - 20",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "sfol",
+        "name": "Scottish Fold",
+        "origin": "United Kingdom",
+        "temperament": [
+            "Affectionate",
+            "Intelligent",
+            "Loyal",
+            "Playful",
+            "Social",
+            "Sweet",
+            "Loving"
+        ],
+        "life_span": "11 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "srex",
+        "name": "Selkirk Rex",
+        "origin": "United States",
+        "temperament": [
+            "Active",
+            "Affectionate",
+            "Dependent",
+            "Gentle",
+            "Patient",
+            "Playful",
+            "Quiet",
+            "Social"
+        ],
+        "life_span": "14 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "siam",
+        "name": "Siamese",
+        "origin": "Thailand",
+        "temperament": [
+            "Active",
+            "Agile",
+            "Clever",
+            "Sociable",
+            "Loving",
+            "Energetic"
+        ],
+        "life_span": "12 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "sibe",
+        "name": "Siberian",
+        "origin": "Russia",
+        "temperament": [
+            "Curious",
+            "Intelligent",
+            "Loyal",
+            "Sweet",
+            "Agile",
+            "Playful",
+            "Affectionate"
+        ],
+        "life_span": "12 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "sing",
+        "name": "Singapura",
+        "origin": "Singapore",
+        "temperament": [
+            "Affectionate",
+            "Curious",
+            "Easy Going",
+            "Intelligent",
+            "Interactive",
+            "Lively",
+            "Loyal"
+        ],
+        "life_span": "12 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "snow",
+        "name": "Snowshoe",
+        "origin": "United States",
+        "temperament": [
+            "Affectionate",
+            "Social",
+            "Intelligent",
+            "Sweet-tempered"
+        ],
+        "life_span": "14 - 19",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "soma",
+        "name": "Somali",
+        "origin": "Somalia",
+        "temperament": [
+            "Mischievous",
+            "Tenacious",
+            "Intelligent",
+            "Affectionate",
+            "Gentle",
+            "Interactive",
+            "Loyal"
+        ],
+        "life_span": "12 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "sphy",
+        "name": "Sphynx",
+        "origin": "Canada",
+        "temperament": [
+            "Loyal",
+            "Inquisitive",
+            "Friendly",
+            "Quiet",
+            "Gentle"
+        ],
+        "life_span": "12 - 14",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "tonk",
+        "name": "Tonkinese",
+        "origin": "Canada",
+        "temperament": [
+            "Curious",
+            "Intelligent",
+            "Social",
+            "Lively",
+            "Outgoing",
+            "Playful",
+            "Affectionate"
+        ],
+        "life_span": "14 - 16",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "toyg",
+        "name": "Toyger",
+        "origin": "United States",
+        "temperament": [
+            "Playful",
+            "Social",
+            "Intelligent"
+        ],
+        "life_span": "12 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "tang",
+        "name": "Turkish Angora",
+        "origin": "Turkey",
+        "temperament": [
+            "Affectionate",
+            "Agile",
+            "Clever",
+            "Gentle",
+            "Intelligent",
+            "Playful",
+            "Social"
+        ],
+        "life_span": "15 - 18",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "tvan",
+        "name": "Turkish Van",
+        "origin": "Turkey",
+        "temperament": [
+            "Agile",
+            "Intelligent",
+            "Loyal",
+            "Playful",
+            "Energetic"
+        ],
+        "life_span": "12 - 17",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    },
+    {
+        "id": "ycho",
+        "name": "York Chocolate",
+        "origin": "United States",
+        "temperament": [
+            "Playful",
+            "Social",
+            "Intelligent",
+            "Curious",
+            "Friendly"
+        ],
+        "life_span": "13 - 15",
+        "image_url": "https://cdn2.thecatapi.com/images/aae.jpg"
+    }
+]

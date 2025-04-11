@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: cat_pipeline_app
+    environment:
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_USER=postgres
+      - DB_PASSWORD=example
+      - DB_NAME=catdb
+    depends_on:
+      - db
+    volumes:
+      - .:/app
+    networks:
+      - cat_network
+
+  db:
+    image: postgres:13
+    container_name: postgres_catdb
+    environment:
+      POSTGRES_DB: catdb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: example
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    networks:
+      - cat_network
+    ports:
+      - "5432:5432"
+
+networks:
+  cat_network:
+    driver: bridge
+
+volumes:
+  pg_data:
